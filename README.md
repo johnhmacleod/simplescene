@@ -1,3 +1,4 @@
+
 # simplescene
 Simple scene selection for A&H Desks - initially SQ.  Uses LOLIN S2 ESP32 platform.  Programmed via Arduino IDE
 
@@ -13,4 +14,4 @@ Simple scene selection for A&H Desks - initially SQ.  Uses LOLIN S2 ESP32 platfo
 - Update credentials for your WiFi network
 - Compile & run!  No library installation required
 
-
+<img width="2544" height="1580" alt="ProjectBox" src="https://github.com/user-attachments/assets/beeb7b70-8fef-404b-86d3-292b1377e3cb" />
