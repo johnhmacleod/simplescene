@@ -6,7 +6,7 @@ Simple scene selection for A&H Desks - initially SQ.  Uses LOLIN S2 ESP32 platfo
 - Commits select scene via Midi command to discovered desk
 - Supports scenes 1-9 though easily extended beyond
 
-*Installation*
+**Installation**
 
 - Update credentials for your WiFi network
 - Compile & run!  No library installation required
