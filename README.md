@@ -12,3 +12,5 @@ Simple scene selection for A&H Desks - initially SQ.  Uses LOLIN S2 ESP32 platfo
 
 - Update credentials for your WiFi network
 - Compile & run!  No library installation required
+
+![Project](projectbox.jpg)
